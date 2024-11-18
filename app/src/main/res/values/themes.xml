@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <style name="Theme.AndroidUIComponents" parent="android:Theme.Material.Light.NoActionBar" />-->
+
+<!--    <style name="Theme.LegacyTheme" parent="Theme.AppCompat.Light.NoActionBar"/>-->
+    <style name="Theme.AndroidUIComponents" parent="Theme.Material3.DynamicColors.Light">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+
+    <!-- Legacy AppCompat Theme -->
+    <style name="Theme.AndroidUIComponents.Legacy" parent="Theme.AppCompat.Light.NoActionBar"/>
+
+
+
+</resources>

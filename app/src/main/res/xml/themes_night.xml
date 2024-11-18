@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme for night mode -->
+    <style name="Theme.MyApp.Night" parent="Theme.Material3.DynamicColors.Dark">
+        <!-- Customize the night mode theme -->
+        <item name="android:background">@android:color/background_dark</item>
+        <item name="android:textColor">@android:color/white</item>
+        <!-- Add more customizations here as needed -->
+    </style>
+
+</resources>
